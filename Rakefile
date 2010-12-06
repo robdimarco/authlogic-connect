@@ -4,7 +4,7 @@ require 'rake/gempackagetask'
 
 # http://docs.rubygems.org/read/chapter/20
 spec = Gem::Specification.new do |s|
-  s.name              = "authlogic-connect"
+  s.name              = "robdimarco-authlogic-connect"
   s.author            = "Lance Pollard"
   s.version           = "0.0.6"
   s.summary           = "Authlogic Connect: Oauth and OpenID made dead simple"
